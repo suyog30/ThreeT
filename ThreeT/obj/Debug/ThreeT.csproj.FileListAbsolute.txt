@@ -1,0 +1,10 @@
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\bin\Debug\ThreeT.exe.config
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\bin\Debug\ThreeT.exe
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\bin\Debug\ThreeT.pdb
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.csprojAssemblyReference.cache
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.Form1.resources
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.Properties.Resources.resources
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.csproj.GenerateResource.cache
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.exe
+C:\Users\Suyog\source\repos\ThreeT\ThreeT\obj\Debug\ThreeT.pdb
